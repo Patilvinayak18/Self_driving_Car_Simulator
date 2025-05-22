@@ -8,7 +8,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 
 # Download this Udacity's Self-Driving Car Simulator:
 
-[Repo link](https://github.com/udacity/self-driving-car-sim)
+[Repo link](https://github.com/Sharadpatil03/Self-driving-Car-Simulator)
 
 
 
@@ -20,7 +20,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Complete-Self-Driving-Car.git
+https://github.com/Sharadpatil03/Self-driving-Car-Simulator
 ```
 
 ## STEP 02: 
