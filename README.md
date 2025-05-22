@@ -11,8 +11,6 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
 
-# Live demo:
-[video link](https://youtu.be/707kKmtrjrE)
 
 
 # STEPS to run this project:
@@ -52,10 +50,5 @@ python drive.py
 
 Now open your simulator in Autonomous mood & run yes!!🙂
 
-# Authors:
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-```
+
 
