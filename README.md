@@ -48,7 +48,7 @@ Now to start the drive run the following command
 python drive.py
 ```
 
-Now open your simulator in Autonomous mood & run yes!!🙂
+
 
 
 
