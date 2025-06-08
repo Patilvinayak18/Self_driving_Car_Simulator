@@ -1,54 +1,43 @@
-# Complete-Self-Driving-Car
+# 🚘 Complete Self-Driving Car Simulation Project
 
-A self-driving car, also known as an autonomous vehicle, driverless car, or robotic car, is a car incorporating vehicular automation, that is, a ground vehicle that is capable of sensing its environment and moving safely with little or no human input.
-
-
-![alt text](https://cdn.dribbble.com/users/1815/screenshots/2589016/car_dr.gif)
-
-
-# Download this Udacity's Self-Driving Car Simulator:
-
-[Repo link](https://github.com/Sharadpatil03/Self-driving-Car-Simulator)
+A **Self-Driving Car**, also called an autonomous vehicle, is a car that uses sensors, AI models, and deep learning to drive itself without human input. This project demonstrates a simulation of such a car by integrating signal detection, lane tracking, and real-time control, all inside a virtual environment powered by **Udacity’s Self-Driving Car Simulator**.
 
 
 
 
-# STEPS to run this project:
+## 🧠 Key Features
 
+- 🚦 Signal Detection using CNN and Traffic Sign Dataset
+- 🛣️ Lane Detection using Deep Learning (MapNet)
+- 📸 Input from virtual sensors (via Unreal Engine)
+- 🕹️ Live GUI interface for simulation control
+- 📊 Real-time accuracy evaluation
 
-## STEP 01: 
-Clone the repository
+---
 
-```bash
-https://github.com/Sharadpatil03/Self-driving-Car-Simulator
-```
+## 📥 Simulator Download
 
-## STEP 02: 
-Create an environment & activate
+🔗 Download and install the [Udacity Self-Driving Car Simulator](https://github.com/Sharadpatil03/Self-driving-Car-Simulator)
 
+---
 
-```bash
+## 🚀 How to Run This Project
+
+### ✅ STEP 1: Clone the Repository
+
+bash : 
+git clone https://github.com/Sharadpatil03/Self-driving-Car-Simulator
+cd Self-driving-Car-Simulator
+
+ STEP 2: Create and Activate Virtual Environment
+bash :
 conda create -n sdcar python=3.7 -y
-```
+conda activate sdcar
 
-## STEP 03: 
-Install the requirements
-
-
-```bash
+STEP 3: Install Required Packages
+bash :
 pip install -r requirements.txt
-```
 
-
-## STEP 06: 
-Now to start the drive run the following command
-
-
-```bash
+STEP 4: Start the Simulation
 python drive.py
-```
-
-
-
-
 
